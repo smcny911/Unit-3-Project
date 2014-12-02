@@ -1,0 +1,17 @@
+body{
+	background: url{"file://localhost/Users/stephanie/Desktop/My%20Circuits%20Course/Unit%203/Unit3ProjectAssets/background.jpg");
+	font-size: 12px ;
+	font-family: helvetica;
+	color: white;
+
+}	
+
+hr {
+	width: 100px;
+	line-height: 10px;
+
+}
+
+a {
+
+}
